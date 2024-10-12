@@ -1,7 +1,4 @@
-.contenedor-tarjetas{
+.contenendor-tarjetas{
     display: flex;
-}
-
-.carruseles{
-    
+    justify-content: space-between;
 }
